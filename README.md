@@ -1,4 +1,4 @@
-<img width="1920" height="4167" alt="gofullscreenshot-2026-09-23-21-44-27" src="https://github.com/user-attachments/assets/1e7badaf-db81-4014-a05c-f9e014e586d5" /># Dr. Sanaz Alizade Dental Clinic
+# Dr. Sanaz Alizade Dental Clinic
 
 A responsive dental clinic website.
 
